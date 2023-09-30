@@ -1,0 +1,25 @@
+.login-page{
+    /* background-color: #d2e823; */
+    background-color: #8a2be2;
+}
+.login-img{
+    background-image: url(../images/Login-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -90px;
+    height: 130vh;
+    }  
+    .login-page .join-linktree{
+        background: rgb(68,94,255);
+background: -moz-linear-gradient(52deg, rgba(68,94,255,1) 14%, rgba(138,43,226,1) 31%, rgba(107,9,243,1) 59%, rgba(173,20,255,1) 77%);
+background: -webkit-linear-gradient(52deg, rgba(68,94,255,1) 14%, rgba(138,43,226,1) 31%, rgba(107,9,243,1) 59%, rgba(173,20,255,1) 77%);
+background: linear-gradient(52deg, rgba(68,94,255,1) 14%, rgba(138,43,226,1) 31%, rgba(107,9,243,1) 59%, rgba(173,20,255,1) 77%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#445eff",endColorstr="#ad14ff",GradientType=1);
+        box-shadow: 10px 10px 50px rgb(116, 60, 168);
+    }
+    .login-page .get-start-img img{
+        width: 400px;
+    }
+    .join-linktree form{
+        margin-left: 130px;
+    }

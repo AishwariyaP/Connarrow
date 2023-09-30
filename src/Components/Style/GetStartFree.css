@@ -1,0 +1,61 @@
+.get-started{
+    background-color: #d2e823;
+    } 
+    .get-started-img {
+        background-image: url(../images/bg.webp);
+        margin-top: -50px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 130vh;
+    }
+    
+    .apple-login,
+    .google-login {
+        width: 90%;
+        border: 1px solid black;
+        padding: 10px;
+        border-radius: 20px;
+    }
+    
+    .join-linktree {
+        background: rgb(210,232,35);
+    background: -moz-linear-gradient(146deg, rgba(210,232,35,1) 29%, rgba(240,238,62,1) 46%, rgba(193,227,50,1) 77%, rgba(160,226,43,1) 94%, rgba(160,226,43,1) 94%);
+    background: -webkit-linear-gradient(146deg, rgba(210,232,35,1) 29%, rgba(240,238,62,1) 46%, rgba(193,227,50,1) 77%, rgba(160,226,43,1) 94%, rgba(160,226,43,1) 94%);
+    background: linear-gradient(146deg, rgba(210,232,35,1) 29%, rgba(240,238,62,1) 46%, rgba(193,227,50,1) 77%, rgba(160,226,43,1) 94%, rgba(160,226,43,1) 94%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d2e823",endColorstr="#a0e22b",GradientType=1);
+        padding: 10px 35px;
+        margin: 50px 0;
+        /* border-left: 3px solid black; */
+        box-shadow: 10px 10px 50px yellowgreen;
+    }
+    
+    .create-btn-color {
+        background-color: lightgray;
+        font-weight: bold;
+    }
+    
+    .create-btn-color:hover {
+        background-color: lightgray;
+        opacity: 0.7;
+    }
+    
+    .create-para {
+        font-size: 15px;
+    }
+    
+    .login-page-getStarted a {
+        color: blue;
+        text-decoration: underline;
+    }
+    
+    .recaptcha {
+        font-size: 13px;
+    }
+    .get-start-img{
+     width: 200px;
+     height:200px;
+     position: relative;
+     /* right: 50px; */
+     top: 150px;
+    
+    }

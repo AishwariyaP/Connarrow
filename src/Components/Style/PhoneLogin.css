@@ -1,0 +1,29 @@
+.phone{
+    background-color: rgb(245, 216, 221);
+    height: 100vh;
+}
+.phone .login-text{
+    padding-top: 130px;
+    font-size: 60px;
+    font-weight: bold;
+}
+.phone .re-captcha{
+    font-size:13px;
+}
+.phone .log-in{
+    border-radius: 30px;
+    padding: 10px 0;
+    background-color: rgb(249, 134, 153);
+    font-weight: 600;
+}
+.phone .phone-number{
+    border-radius: 10px;
+    padding:8px 10px;
+    background-color: rgb(229, 226, 226);
+    border:1px solid transparent;
+}
+.phone a,.username{
+    text-decoration: underline;
+    padding:0 5px;
+    color: blue;
+}
